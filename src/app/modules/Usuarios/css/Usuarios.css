@@ -1,0 +1,35 @@
+.login-form {
+    max-width: 300px;
+}
+.login-form-forgot {
+    float: right;
+}
+.ant-col-rtl .login-form-forgot {
+    float: left;
+}
+.login-form-button {
+    width: 100%;
+}
+
+
+.divContentLoginView {
+    height:100vh;
+    background-image: url('./barBackGround.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.divContentFormLogin {
+    background-color:#3a6e6e99;
+    width:22rem;
+    padding:2rem;
+    border-radius:32px;
+    margin: 0 auto;
+}
+
+.divLoginAppLogo{
+    width:20%;
+    margin:0 auto;
+    text-align:center;
+}

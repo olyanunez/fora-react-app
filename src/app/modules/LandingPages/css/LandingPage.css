@@ -1,0 +1,11 @@
+.site-custom-tab-bar {
+    z-index: 1;
+    background: #fff;
+}
+
+.divContentInformationLandigPage {
+    height:100vh;
+    background-image: url('./LandingPageBackGround.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
